@@ -1,5 +1,5 @@
-mlclass_fall2011
-================
+Machine Learning Class, Fall 2011
+=================================
 
 Code for exercises from the fall 2011 machine learning class at www.ml-class.org with Prof. Andrew Ng.
 
